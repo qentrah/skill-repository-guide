@@ -6,6 +6,12 @@ An open Qentrah agent skill for orienting contributors and AI agents in a DUI re
 
 Give contributors a reliable map of source, registry, and documentation responsibilities.
 
+## Install
+
+```bash
+npx @qentrah/skills add repository-guide
+```
+
 ## Structure
 
 - `SKILL.md` — the portable instructions consumed by an AI agent.
